@@ -1,9 +1,0 @@
-com\student\loginpage\config\PasswordConfig.class
-com\student\loginpage\entity\Customer.class
-com\student\loginpage\dto\AuthResponse.class
-com\student\loginpage\service\AuthService.class
-com\student\loginpage\LoginpageApplication.class
-com\student\loginpage\controller\AuthController.class
-com\student\loginpage\repository\CustomerRepository.class
-com\student\loginpage\dto\LoginRequest.class
-com\student\loginpage\dto\RegisterRequest.class
