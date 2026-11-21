@@ -1,0 +1,9 @@
+C:\Users\WINDOWS 11 PRO\Documents\LoginPage\backend\loginpage\src\main\java\com\student\loginpage\config\PasswordConfig.java
+C:\Users\WINDOWS 11 PRO\Documents\LoginPage\backend\loginpage\src\main\java\com\student\loginpage\controller\AuthController.java
+C:\Users\WINDOWS 11 PRO\Documents\LoginPage\backend\loginpage\src\main\java\com\student\loginpage\dto\AuthResponse.java
+C:\Users\WINDOWS 11 PRO\Documents\LoginPage\backend\loginpage\src\main\java\com\student\loginpage\dto\LoginRequest.java
+C:\Users\WINDOWS 11 PRO\Documents\LoginPage\backend\loginpage\src\main\java\com\student\loginpage\dto\RegisterRequest.java
+C:\Users\WINDOWS 11 PRO\Documents\LoginPage\backend\loginpage\src\main\java\com\student\loginpage\entity\Customer.java
+C:\Users\WINDOWS 11 PRO\Documents\LoginPage\backend\loginpage\src\main\java\com\student\loginpage\LoginpageApplication.java
+C:\Users\WINDOWS 11 PRO\Documents\LoginPage\backend\loginpage\src\main\java\com\student\loginpage\repository\CustomerRepository.java
+C:\Users\WINDOWS 11 PRO\Documents\LoginPage\backend\loginpage\src\main\java\com\student\loginpage\service\AuthService.java
